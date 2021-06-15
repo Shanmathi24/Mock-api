@@ -1,0 +1,24 @@
+[{
+    "name": "Shanmathi",
+    "age": 20,
+    "dob": "24-06-2001",
+    "firstName": "Shan",
+    "lastName": "Mathi",
+    "more": {
+    "address_line1": "Anna nagar",
+    "address_line2": "Chennai",
+    "phone": "6387073263"
+    
+    }
+    },{
+    "name": "Harish",
+    "age": 12,
+    "dob": "24-03-2010",
+    "firstName": "Harish",
+    "lastName": "T",
+    "more": {
+    "address_line1": "T.Nagar",
+    "address_line2": "Chennai",
+    "phone": "6787697909"
+    }
+    }]
